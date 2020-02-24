@@ -5,7 +5,7 @@ version = "2.2.0-1"
 supported_platforms = {"linux", "macosx"}
 
 source = {
-  url = "git://github.com/Kong/kong-plugin-session",
+  url = "git://github.com/Ian-McLellan/dxp-sessions",
   tag = "2.2.0"
 }
 
